@@ -37,7 +37,7 @@ Software used:- Postman
 6. npm install cors # Middle - For access of my api other than localhost.
 ```
 
-Then type `npm start` to run and tyep `http://localhost:3000/`
+Then type `npm start` to run and type `http://localhost:3000/`
 
 # Reference
 
