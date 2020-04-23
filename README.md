@@ -4,6 +4,10 @@
 
 Software used:- Postman
 
+# 📸Screenshot
+
+<img width="1052" alt="Screenshot 2020-04-23 at 12 56 58 PM" src="https://user-images.githubusercontent.com/42263217/80071274-f3fd3100-8561-11ea-9f36-57d0abbd2311.png">
+
 **File structure:**
 
 ```
